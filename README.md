@@ -1,2 +1,1 @@
-# peaKey
-Webshop Projekt 2018
+# PeaKey Webshop
